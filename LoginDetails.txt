@@ -1,0 +1,4 @@
+admin admin123 admin
+staff staff123 staff
+101 pass123 student
+102 pass456 student
